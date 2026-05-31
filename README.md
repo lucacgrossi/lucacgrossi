@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Information Systems Engineering student @ UTN FRC**
 
-Córdoba, Argentina · [LinkedIn](www.linkedin.com/in/lucacgrossi) · lucac_grossi@outlook.com
+Córdoba, Argentina · [LinkedIn](https://www.linkedin.com/in/lucacgrossi) · lucac_grossi@outlook.com
 
 ---
 
@@ -14,6 +14,7 @@ Currently focused on backend development with Java/Spring Boot and frontend with
 - 🎓 Studying Information Systems Engineering at Universidad Tecnológica Nacional (FRC)
 - 🔨 Building [PresWatch](#) — a personal finance web app with Spring Boot, React and Docker
 - 🌱 Currently learning: CI/CD pipelines, containerization, integration testing
+- 🤖 Experienced with AI-assisted development using Claude Code, MCP servers and agentic workflows
 - 🌍 Languages: Spanish (native) · English (B2) · Italian (B1)
 
 ---
